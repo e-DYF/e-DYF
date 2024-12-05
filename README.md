@@ -1,4 +1,4 @@
-- Bonjour, je m'appelle e-DYF
+- Bonjour, je m'appelle DYF
 - Je suis intérressé par le Logiciel, Cybersécurité et l'IA.
 - Je suis actuellement Etudiant en Génie logiciel et Base de Données ; Parrallèlement je suis Athlète et en autodidacte j'apprend la Cybersécurité et l'IA.
 - Je suis ouvert à toute collaboration ou éventuel projet dans ces domaines.
